@@ -1,0 +1,84 @@
+
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD1re9tcejh2_J-ILZuf4PenSO5oemSxu9Tw&usqp=CAU");
+    background-size: contain;
+}
+p{
+padding-left: 30px;
+padding-right: 30px;
+padding-bottom: 20px;
+color: aliceblue;
+font-size: 25px;
+}
+.info{
+     padding-left: 20px;
+     color: aliceblue;
+    }
+h2{
+    text-align: center;
+    padding-left: 30px;
+    color: aliceblue;
+    font-size: 32px;
+    padding-top: 100px;
+}
+
+
+
+.Heading{
+    display: flex;
+    border: 1px solid rgb(5, 5, 78) ;
+    height: 100px;
+    width: 700px;
+    
+    background-image: url(Images/Moon.svg);
+    position: fixed;
+    z-index: 2;
+    left: 300px;
+    border-radius: 20%;
+backdrop-filter: 20px;
+border: 2px solid white;
+
+}
+
+
+.homee img{
+    height: 50px;
+    width: 50px;
+    border: 1px solid rgb(239, 238, 245);
+    border-radius: 20%;
+   
+}
+.statss img{
+    height: 50px;
+    width: 50px;
+    border: 2px solid rgb(230, 230, 238);
+    background-color: aliceblue;
+    border-radius: 20%;
+    
+}
+.legacyy img{
+    height: 50px;
+    width: 50px;
+    border: 2px solid rgb(230, 230, 238);
+    background-color: aliceblue;
+    border-radius: 20%;
+    
+}
+.homee{
+    padding-right: 50px;
+    position: fixed;
+    left: 470px;
+    top: 30px;
+}
+.statss{
+    position: fixed;
+    left: 610px;
+    top: 30px;
+}
+.legacyy {
+    position:fixed;
+    top: 30px;
+    left: 750px;
+}
+
+

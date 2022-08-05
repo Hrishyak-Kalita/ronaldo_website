@@ -1,0 +1,218 @@
+body{
+    background-image: url("Images/Sprinkle.svg");
+    background-size: contain;
+}
+
+.Heading{
+    display: flex;
+    border: 1px solid rgb(5, 5, 78) ;
+    height: 100px;
+    width: 700px;
+    
+    background-image: url(Images/Moon.svg);
+    position: fixed;
+    z-index: 2;
+    left: 300px;
+    border-radius: 20%;
+backdrop-filter: 20px;
+border: 2px solid white;
+
+}
+.homee{
+    padding-right: 50px;
+    position: fixed;
+    left: 550px;
+    top: 40px;
+}
+.aboutt{
+    position: fixed;
+    left: 610px;
+    top: 30px;
+}
+.legacyy {
+    position:fixed;
+    top: 30px;
+    left: 750px;
+}
+
+
+.homee img{
+    height: 50px;
+    width: 50px;
+    border: 1px solid rgb(8, 7, 77);
+    border-radius: 20%;
+    position: relative;
+    left: -70px;
+    top: -10px;
+}
+.aboutt img{
+    height: 50px;
+    width: 50px;
+    border: 2px solid rgb(230, 230, 238);
+    background-color: aliceblue;
+    border-radius: 20%;
+
+}
+
+.statss img{
+    height: 50px;
+    width: 50px;
+    border: 2px solid rgb(230, 230, 238);
+    background-color: aliceblue;
+    border-radius: 20%;
+    
+}
+
+.legacyy img{
+    height: 50px;
+    width: 50px;
+    border: 2px solid rgb(230, 230, 238);
+    background-color: aliceblue;
+    border-radius: 20%;
+    
+}
+
+
+
+.yellow{
+    border: 2px solid yellow;
+    height: 9px;
+    width: 11px;
+    background-color: yellow;
+}
+.red{
+    border: 2px solid rgb(247, 5, 5);
+    height: 9px;
+    width: 11px;
+    background-color: rgb(255, 0, 13);
+}
+table, tr, td {
+    border: 2px solid rgb(247, 242, 242);
+    border-collapse: collapse;
+    padding: 15px;
+    margin: 15px;
+    color: antiquewhite;
+}
+.table{
+    text-align: left;
+}
+th{
+    padding-left: 20px;
+}
+.por-rm{
+    display: flex;
+
+    padding: 40px;
+}
+.mu-juv{
+    display: flex;
+    padding: 40px;
+    padding-top: 120px;
+}
+.table1{
+    padding: 20px;
+    padding-right: 60px;
+}
+#dpimage {
+    background-image: url("Images/dpimage.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 347px;
+    width: 520px;
+    border: 1px solid white;
+    position: relative;
+    left: 30px;
+    bottom: -100px;
+
+}
+.table1 h3{
+    border: 2px solid rgb(237, 240, 232);
+    width: 420px;
+    height: 30px;
+    padding-left: 100px;
+    padding-top: 5px;
+    position: relative;
+    left: px;
+    bottom: -380px;
+    color: aliceblue;
+}
+.table2{
+    position: relative;
+    top: 19px;
+}
+.table3{
+    padding: 20px;
+    padding-right: 90px;
+}
+.table4{
+    padding: 20px;
+}
+.table1 h2 img{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: relative;
+    left: 250px;
+    bottom: 40px;
+}
+.table1 h2{
+    position: relative;
+    bottom: -40px;
+    left: 10px;
+}
+.table2 h2 img{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: relative;
+    left: 250px;
+    bottom: 45px;
+}
+.table2 h2{
+    position: relative;
+    bottom: -40px;
+    left: 10px;
+}
+.table3  img{
+height: 60px; 
+width: 100px;
+position: relative;
+    left: 230px;
+    bottom: 40px;
+}
+.table3 h2{
+    position: relative;
+    bottom: -35px;
+    left: 40px;
+}
+.table4  img{
+    height: 60px; 
+    width: 100px;
+    position: relative;
+        left: 230px;
+        bottom: 40px;
+    }
+    .table4 h2{
+        position: relative;
+        bottom: -35px;
+        left: 40px;
+    }
+    #ronaldo_all img{
+        height: 400px;
+        width: 500px;
+        position: relative;
+        left: 30px;
+        bottom: -50px;
+        border: 1px solid white;
+    } 
+    #ronaldo_all h3{
+        height: 30px;
+        width: 570px;
+        border: 2px solid white;
+        position:relative ;
+        top: 50px;
+        padding-top: 15px ;
+        color: aliceblue;
+    }

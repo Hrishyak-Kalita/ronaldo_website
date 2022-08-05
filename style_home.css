@@ -1,0 +1,210 @@
+body{margin: 0;
+}
+header h1{
+    text-align: center;
+    
+    border: 2px solid black;
+    height: 200px; width: 500px;
+    padding-top:  4px;
+    margin: auto;
+}
+h1{ 
+    color: antiquewhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+h3{
+    color: white;
+}
+h2{
+    color: white;
+}
+
+.profile{
+    background-image: url("https://media.newyorker.com/photos/61e87281b67066a13fd20ea8/4:3/w_2271,h_1703,c_limit/Caesar-Ronaldo.jpg");
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+#about{
+    backdrop-filter: blur(10px);
+    display: flex;
+    border-radius: 20px;
+    border: 2px  solid rgb(247, 229, 229,0.1);
+    height: 150px;
+    width: 350px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    position: absolute;
+    bottom: 2%;
+   left: 0;
+   right: 0;
+}
+
+#about:hover{
+    background-color: rgb(255, 0, 0,0.2);
+    border: 2px  solid white;
+    
+}
+
+#about > div{
+margin: 3%;
+}
+
+
+
+.page1 img{
+    height: 70px;
+    width: 70px;
+    border: 2px solid rgb(241, 245, 240);
+    border-radius: 20%;
+    margin-top: -5px;
+   
+}
+
+
+.page2{
+    color: antiquewhite;
+    font-size: 0.8cm;
+}
+.page2 img{
+    height: 70px;
+    width: 70px;
+    border: 2px solid rgb(241, 245, 240);
+    border-radius: 20%;
+    
+    
+}
+.page3{
+    color: antiquewhite;
+    font-size: 0.8cm;
+}
+.page3 img{
+    height: 70px;
+    width: 70px;
+    border: 2px solid white;
+    border-radius: 20%;
+    background-color: aliceblue;
+
+    
+}
+.profile{
+    display: flex;
+}
+#intro2{
+margin-right: 10px;
+margin-top: 200px;
+margin-left: 380px;
+padding: 80px;
+}
+
+
+#intro{
+    padding-top: 200px;
+}
+.name{
+    text-align: right;
+}
+
+#intro1{
+ 
+    width: 400px;
+    height: 100px;
+    padding-top: 100px;
+    padding-right: 0;
+    padding: 50px;
+    margin-right: 0;
+}
+
+#intro1 h1{
+    font-family: 'Raleway', sans-serif;
+}
+#intro{
+    margin-top: 150px;
+    margin-left: -20px;
+}
+#intro1 h3{
+    font-family: 'Raleway', sans-serif;
+}
+.insta{
+    font-size: 0.6cm;
+    padding: 10px;
+    margin: 20px;
+    position: absolute;
+    bottom: 3px;
+
+}
+.fb a{
+    color: antiquewhite;
+}
+.insta img{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 5px;
+}
+.insta a{
+    color: aliceblue;
+}
+.fb{
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 0.6cm;
+    position: absolute;
+    bottom: 18px;
+    left: 5%;
+}
+.fb img{
+    height: 30px;
+    width: 30px;
+}
+.media{
+    display: flex;
+}
+.media img{
+    color: aliceblue;
+}
+
+#gif{
+    position: absolute;
+    top: 10%;
+    right: 10%;
+    height: 20px;
+}
+
+#gif2{
+    position: absolute;
+    top: 30%;
+    right: 10%;
+    height: 20px;
+}
+
+#gif3{
+    position: absolute;
+    top: 50%;
+    right: 10%;
+    height: 20px;
+
+    
+}
+#gif4{
+    position: absolute;
+    top: 70%;
+    right: 10%;
+    
+}
+
+#gif4 img{
+    height: 126px;
+}
+
+
+
+
+
+
+
